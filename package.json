@@ -1,0 +1,22 @@
+{
+  "name": "wombs-audio-component",
+  "version": "0.0.0",
+  "description": "a component, for audio",
+  "main": "wombs-audio-component",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cabbibo/wombs-audio-component"
+  },
+  "keywords": [
+    "wombs"
+  ],
+  "author": "@cabbibo",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/cabbibo/wombs-audio-component/issues"
+  },
+  "homepage": "https://github.com/cabbibo/wombs-audio-component"
+}
