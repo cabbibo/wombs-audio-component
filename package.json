@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies":{
-    "wombs-audio-texture":"0.0.0",
-    "wombs-component":"0.0.0",
+    "wombs-audio-texture":"*",
+    "wombs-component":"*",
     "underscore":"1.6.0"
   },
   "repository": {
